@@ -1,0 +1,19 @@
+body {
+  background-color: #b2fcff;
+}
+
+.App {
+  height: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Stopwatch {
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px dashed #000;
+  background-color: #ecfcff;
+}
